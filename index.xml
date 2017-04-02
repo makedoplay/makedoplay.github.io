@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kev&#39;s MGB GT</title>
+    <link>/index.xml</link>
+    <description>Recent content on Kev&#39;s MGB GT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2017 21:05:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Purchase</title>
+      <link>/post/The%20Purchase/</link>
+      <pubDate>Sun, 02 Apr 2017 21:05:00 +0000</pubDate>
+      
+      <guid>/post/The%20Purchase/</guid>
+      <description>&lt;p&gt;6k later&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Blog! - Technical Rundown</title>
+      <link>/post/newblog/</link>
+      <pubDate>Sun, 02 Apr 2017 21:04:00 +0000</pubDate>
+      
+      <guid>/post/newblog/</guid>
+      <description>&lt;p&gt;Welcome to the new blog! It took a while to decide what software I was going to use to run it, but I&amp;rsquo;ve finally decided and here is a rundown of what I&amp;rsquo;ve used.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
